@@ -22,7 +22,7 @@
                 <div class="row h-100 align-items-center justify-content-center">
                     <div class="col-lg-5 text-white">
                     <form method="post" 
-                    action="<?php echo base_url().'login/aksi_login'; ?>">
+                     action="<?php echo base_url().'login/aksi_login'; ?>">
 							<div class="form-group row">
 								<label class="col-form-label" for="nama">Username</label>
 								<input type="text" class="form-control" id="USERNAME" name="USERNAME" placeholder="Username">
